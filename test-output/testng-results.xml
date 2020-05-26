@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="9513" started-at="2020-05-26T02:11:16 IST" finished-at="2020-05-26T02:11:26 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="9513" started-at="2020-05-26T02:11:16 IST" finished-at="2020-05-26T02:11:26 IST">
+      <class name="poiexceldriven.TestCase">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:poiexceldriven.TestCase@711f39f9]" name="beforeTest" is-config="true" duration-ms="3921" started-at="2020-05-26T02:11:16 IST" finished-at="2020-05-26T02:11:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="DataDrivenTest()[pri:0, instance:poiexceldriven.TestCase@711f39f9]" name="DataDrivenTest" duration-ms="4896" started-at="2020-05-26T02:11:20 IST" finished-at="2020-05-26T02:11:25 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DataDrivenTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:poiexceldriven.TestCase@711f39f9]" name="tearDown" is-config="true" duration-ms="647" started-at="2020-05-26T02:11:25 IST" finished-at="2020-05-26T02:11:26 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- poiexceldriven.TestCase -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
